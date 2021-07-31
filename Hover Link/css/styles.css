@@ -1,0 +1,7 @@
+body{
+    background-color: blue;
+}
+a:hover {
+    background-color: white;
+    size: 200px;
+}
